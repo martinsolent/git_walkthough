@@ -6,16 +6,25 @@ Using the command line to navigate to the desktop and create a folder called “
 
 change directory to desktop
 `cd ~/desktop`
+`cd ~/documents`
 
 make a directory call Project
 `mkdir "project"`
 
-
-`cd ~/desktop/project`
 change directory to project new folder
 
+`cd ~/desktop/project`
+
+`cd ~/documents/project`
+
+
 If you do not have the project folder open you will need to open it to see the creation of the text file called test.txt
-Alternatively create the folder called “project” manually (The Working Directory): on the Desktop then create text file using notepad and call it “test”
+
+Create a Text document called **"test.txt"** Type:
+
+`touch "test.txt"`
+
+Alternatively create the folder called “project” manually (The Working Directory) in the Documents folder then create text file using notepad and call it “test.txt”
 
 Then open terminal on the Mac or Git Bash on Windows 
 
