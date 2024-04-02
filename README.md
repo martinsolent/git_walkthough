@@ -8,7 +8,7 @@ change directory to desktop
 `cd ~/desktop`
 `cd ~/documents`
 
-make a directory call Project
+make a directory call it **Project**
 `mkdir "project"`
 
 change directory to project new folder
